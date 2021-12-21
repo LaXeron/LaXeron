@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LaXeron
 - 👀 I’m interested in Coding Robot and Recondtruction
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, JAVA
